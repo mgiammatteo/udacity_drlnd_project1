@@ -28,7 +28,7 @@ The code is structured as follows:
 * ml-agents: install by following instructions [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Windows.md).
 
 ## Getting Started
-In cell 2 of Navigation.ipynb we import the Unity environment from a remote server. For a local installation of the Unity ml-agents, please refer to the following two source:
+In cell 2 of Navigation.ipynb we import the Unity environment from a remote server. For a local installation of the Unity ml-agents, please refer to the following two sources:
 * [Linux, Mac](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md)
 * [Windows 10](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Windows.md)
 
