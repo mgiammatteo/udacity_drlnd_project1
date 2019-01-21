@@ -1,4 +1,4 @@
-# In the implementation of the agent we simply reuse a Vanilla DQN agent
+# In the implementation of the agent we simply use a Vanilla DQN agent
 
 import numpy as np
 import random

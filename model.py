@@ -1,5 +1,5 @@
 # The function approximator is a simple neural network with two fully connected hidden layers and a final fully connected layer
-# providing the four action as outputs
+# providing the four actions as outputs
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
